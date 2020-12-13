@@ -1,0 +1,21 @@
+.page {
+    padding: 30px;
+}
+
+.square-wrapper {
+    display: flex;
+    flex-direction: column;
+    width: 500px;
+}
+
+.square-row {
+    display: flex;
+    flex-direction: row;
+}
+
+.square {
+    display: flex;
+    width: 100px;
+    height: 100px;
+    border: 1px solid black;
+}
